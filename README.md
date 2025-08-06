@@ -1,4 +1,4 @@
-## Hi there 👋
+## HIHI
 
 <!--
 **leejh1210/leejh1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
